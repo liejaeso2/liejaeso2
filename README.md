@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**liejaeso2/liejaeso2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Header --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=liejaeso2&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Security%20%C2%B7%20Web%20%C2%B7%20AI&descAlignY=58&descSize=20&animation=fadeIn" /> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A1%EF%B8%8F+LLM+Security+%2F+Prompt+Injection+Defense;%F0%9F%8C%90+Frontend+%C2%B7+Web+Developer;%F0%9F%A6%81+LIKELION+%C2%B7+KISIA;%F0%9F%A4%96+AI-powered+Service+Builder" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=liejaeso2&style=flat-square&color=38bdf8&label=Profile+Views" /> </p>
+👋 About Me
+yaml
+name: liejaeso2
+focus: [Web Security, LLM Security, Frontend]
+now:
+  - 🛡️ LLM 서비스의 Prompt Injection 방어 미들웨어 연구
+  - 🧳 AI 기반 디지털 계승 서비스 M:Carry 프론트엔드
+  - 🦁 멋쟁이사자처럼 · KISIA 프로젝트
+motto: "Build it, then break it, then make it safer."
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,fastapi&theme=dark" /><br/><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> </p>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3>🧳 M:Carry</h3> <sub><a href="https://github.com/GulpShroom/FE">GulpShroom/FE</a> · Frontend</sub> <p>명품 백에 쌓인 이야기를 기록하고 다음 소유자에게 이어주는 <b>AI 기반 디지털 계승 서비스</b></p> <ul> <li>📸 Vision AI + EXIF로 사진 한 장에서 여정 기록</li> <li>✍️ LLM 회고 문구 생성 · AI 케어 진단</li> <li>🧬 세대별 소유 계보 & 디지털 제품 여권(DPP)</li> </ul> <img src="https://img.shields.io/badge/AI-Vision%20%2B%20LLM-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Domain-Luxury%20DPP-F59E0B?style=flat-square" /> </td> <td width="50%" valign="top"> <h3>🛡️ Prompt Injection Defense</h3> <sub>Research · In progress</sub> <p>LLM 기반 서비스에서 <b>방어 미들웨어 방식별 보안 성능과 서비스 오버헤드</b>를 동일 조건에서 정량 비교</p> <ul> <li>⚖️ Rule-based · 경량 분류기 · LLM Detector · 단계별 방어 비교</li> <li>🇰🇷 영어 · 한국어 · 혼합 공격 데이터셋</li> <li>📈 탐지율/오탐률 vs 지연·비용 트레이드오프</li> </ul> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20Security-DC2626?style=flat-square" /> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🔐 VAULT</h3> <sub>KISIA-CCTV · Team Project</sub> <p>KISIA 과정 팀 프로젝트</p> <img src="https://img.shields.io/badge/KISIA-Security-1E3A8A?style=flat-square" /> </td> <td width="50%" valign="top"> <h3>🦁 LIKELION</h3> <sub><a href="https://github.com/liejaeso2/Lion_session14th">Lion_session14th</a> · <a href="https://github.com/liejaeso2/Lion_Session2">Lion_Session2</a> · Mini Project 5Team FE</sub> <p>멋쟁이사자처럼 14기 세션 과제와 미니 프로젝트 프론트엔드</p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/LIKELION-FF7710?style=flat-square" /> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📘 PBL</h3> <sub><a href="https://github.com/liejaeso2/PBL">liejaeso2/PBL</a></sub> <p>프로젝트 기반 학습(PBL) 저장소</p> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> </td> <td width="50%" valign="top"> <h3>🐍 Open Source SW</h3> <sub><a href="https://github.com/liejaeso2/move_ball">move_ball</a> · OSS Week 7–11</sub> <p>오픈소스SW 수업 주차별 실습</p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> </td> </tr> </table>
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=liejaeso2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liejaeso2&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=liejaeso2&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=liejaeso2&theme=tokyo-night&hide_border=true&area=true" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" /> </p>
